@@ -1,8 +1,9 @@
 ### Всем Привет  👋
 
-## Не много осебе 
+## Не много о себе 
+
 Меня зовут **Сергей** я работаю системым адмнистратором .
-- 
+
 
 ### Мой стек технологий
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
@@ -15,8 +16,8 @@
 ### Соцсети и курсы 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
-[![HH.ru](https://img.shields.io/badge/-headhunter-red?style=flat)](https://hh.ru/resume/5f71daa3ff07b3bad40039ed1f41535a764e52)
+[![HH.ru](https://img.shields.io/badge/-headhunter-blue?style=flat)](https://hh.ru/resume/5f71daa3ff07b3bad40039ed1f41535a764e52)
 
-[![Duolingo](https://img.shields.io/badge/-duolingo-white?style=flat&logo=duolingo)]()
+[![Duolingo](https://img.shields.io/badge/-duolingo-blue?style=flat&logo=duolingo)]()
 
 
