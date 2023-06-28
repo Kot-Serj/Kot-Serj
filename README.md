@@ -1,11 +1,11 @@
-### Hi there 👋
+### Всем Привет  👋
 
 ## Не много осебе 
 Меня зовут **Сергей** я работаю системым адмнистратором .
 - 
 
 ### Мой стек технологий
-![Window](<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">)
+![Window](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />)
 
 ### Соцсети и курсы 
 
