@@ -19,5 +19,8 @@
 
 [![Курсы на Stepik](https://img.shields.io/badge/-Курсы_на_Stepik-08a652?style=for-the-badge)](ссылка)
 
+[![ Linkedin](<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg") ]
+    title="windows" alt="Windows" width="35" height="35"/>&nbsp;
+
 
 
