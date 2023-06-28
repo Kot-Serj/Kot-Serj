@@ -18,7 +18,7 @@
 ### Соцсети и курсы 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg"
-    title="Linkedin">&nbsp;
+    title="Linkedin" alt="Linkedin" width="100" height="100"/>&nbsp;
 
 
 
