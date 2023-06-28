@@ -5,12 +5,9 @@
 - 
 
 ### Мой стек технологий
-<div id="badges">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" 
-    title="windows" alt="Windows" width="35" height="35"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" 
-    title="Debian" alt="Debian" width="35" height="35"/>&nbsp;
-</div>
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
+
 
           
              
