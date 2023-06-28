@@ -6,7 +6,7 @@
 
 ### Мой стек технологий
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" 
 title="windows" width="40" height="40"/>&nbsp;
           
              
