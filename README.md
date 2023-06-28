@@ -16,14 +16,8 @@
              
 
 ### Соцсети и курсы 
-<a href="your-linkedin-URL">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-<a href="your-youtube-URL">
-<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" 
-<a href="your-twitter-URL">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" 
-</a>
-
-
+- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- [![HH.ru](https://tech.hh.ru/api/logos/min-hh-red.png)](https://hh.ru/resume/5f71daa3ff07b3bad40039ed1f41535a764e52)
+- [![Duolingo](https://img.shields.io/badge/-duolingo-white?style=flat&logo=duolingo)]()
 
 
