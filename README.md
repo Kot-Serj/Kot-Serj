@@ -9,6 +9,7 @@
 ### Мой стек технологий
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
+[![Kaspersky](https://img.shields.io/badge/-Kaspersky-blue?style=flat&logo=Kaspersky)](https://github.com/simple-icons/simple-icons/blob/master/slugs.md)
 
 
           
