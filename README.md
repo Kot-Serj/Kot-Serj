@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Kot-Serj/Kot-Serj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Не много осебе 
+Меня зовут **Сергей** я работаю системым адмнистратором .
+- 
 
-Here are some ideas to get you started:
+### Мой стек технологий
+![Window](<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Соцсети и курсы 
+
+[![Курсы на Stepik](https://img.shields.io/badge/-Курсы_на_Stepik-08a652?style=for-the-badge)](ссылка)
+
+
+
