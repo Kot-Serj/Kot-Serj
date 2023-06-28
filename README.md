@@ -17,7 +17,10 @@
 
 ### Соцсети и курсы 
 - [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-- [![HH.ru](https://hhcdn.ru/ichameleon/00177.png)](https://hh.ru/resume/5f71daa3ff07b3bad40039ed1f41535a764e52)
+
+- <a href="https://hh.ru/resume/5f71daa3ff07b3bad40039ed1f41535a764e52">
+    <img src="https://hhcdn.ru/ichameleon/00177.png" title="Git" **alt="Git" width="40" height="40"/>
+
 - [![Duolingo](https://img.shields.io/badge/-duolingo-white?style=flat&logo=duolingo)]()
 
 
