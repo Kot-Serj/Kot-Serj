@@ -8,6 +8,10 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" 
 title="windows" width="35" height="35"/>&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" 
+title="windows" width="35" height="35"/>&nbsp;
+
           
              
 
