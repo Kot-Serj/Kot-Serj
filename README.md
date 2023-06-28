@@ -5,7 +5,7 @@
 - 
 
 ### Мой стек технологий
-
+<div id="badges">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" 
 title="windows" width="35" height="35"/>&nbsp;
 
