@@ -18,7 +18,7 @@
              
 
 ### Соцсети, курсы, портфолио 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-yazykov-b515b2237/)
 
 [![HH.ru](https://img.shields.io/badge/-HeadHunter-blue?style=flat)](https://hh.ru/resume/5f71daa3ff07b3bad40039ed1f41535a764e52)
 
