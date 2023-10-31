@@ -13,7 +13,7 @@
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 ![Kaspersky](https://img.shields.io/badge/-Kaspersky-black?style=for-the-badge&logo=Kaspersky)
-!(https://img.shields.io/badge/Ardiuno%20-%2338B2AC.svg?logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/Ardiuno%20-%2338B2AC.svg?logo=arduino&logoColor=white)
 
 
           
